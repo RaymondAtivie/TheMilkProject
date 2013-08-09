@@ -124,7 +124,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="brand" href="<?php echo base_url(); ?>">The Milk Project</a>
+                        <a class="brand" href="<?php echo base_url(); ?>">The Milk Project<small>beta</small></a>
 
 
                         <div class="nav-collapse collapse pull-right">
