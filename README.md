@@ -1,5 +1,4 @@
 TheMilkProject
 ==============
 
-Blah
-jnk
+An online auction site for Unverisitis and other small communities
