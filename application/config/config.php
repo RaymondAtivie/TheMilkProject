@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://raymond.dev/themilkproject/';
+$config['base_url']	= 'http://raymond.dev/GitHub/TheMilkProject/';
 
 /*
 |--------------------------------------------------------------------------
